@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BillSplitter</name>
+    </assembly>
+    <members>
+        <member name="T:CampingTools.BillSplitter">
+            <summary>
+            The BillSplitter class obtains individual expenses from a user-designated text file and calculate
+            any applicable money each person must pay or be paid. Results are stored in an output text file 
+            within the same directory as the input file.
+            </summary>
+            <remarks>
+            In the output text file: Positive values denote the participant owes money to the group. While 
+            negative values (enclosed with brackets without negative signs) denote the group owes money to 
+            the participant.
+            </remarks>
+        </member>
+        <member name="M:CampingTools.BillSplitter.IsTextFileInvalid(System.String)">
+            <summary>
+            The IsTextFileInvaild method checks whether the input file name refers to an invalid text file.
+            </summary>
+            <remarks>
+            The following are considered an invalid text file:
+            - The text file does not exist.
+            - The text file is being used by another process.
+            - The text file is empty or contains blank lines.
+            - The text file contains negative or non-numerical data.
+            </remarks>
+            <param name="fileName">The file name of the text file.</param>
+            <returns>
+            <c>true</c> if the file name refers to an invalid text file; Otherwise, <c>false</c>.
+            </returns>
+        </member>
+    </members>
+</doc>

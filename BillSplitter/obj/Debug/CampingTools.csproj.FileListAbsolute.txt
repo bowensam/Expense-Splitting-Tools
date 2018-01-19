@@ -1,0 +1,8 @@
+C:\Users\Bowen\source\repos\BillSplitter\BillSplitter\bin\Debug\BillSplitter.exe.config
+C:\Users\Bowen\source\repos\BillSplitter\BillSplitter\bin\Debug\BillSplitter.exe
+C:\Users\Bowen\source\repos\BillSplitter\BillSplitter\bin\Debug\BillSplitter.pdb
+C:\Users\Bowen\source\repos\BillSplitter\BillSplitter\obj\Debug\CampingTools.csprojResolveAssemblyReference.cache
+C:\Users\Bowen\source\repos\BillSplitter\BillSplitter\obj\Debug\CampingTools.csproj.CoreCompileInputs.cache
+C:\Users\Bowen\source\repos\BillSplitter\BillSplitter\obj\Debug\BillSplitter.exe
+C:\Users\Bowen\source\repos\BillSplitter\BillSplitter\obj\Debug\BillSplitter.pdb
+C:\Users\Bowen\source\repos\BillSplitter\BillSplitter\bin\Debug\BillSplitter.xml
